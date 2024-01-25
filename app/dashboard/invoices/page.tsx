@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function>() {
+export default function Page() {
   return (
     <div>Invoices Page</div>
   )
